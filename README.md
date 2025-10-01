@@ -10,3 +10,5 @@ you can recover the original file using
 <pre>holojoin <i>N fractionfile1 ... fractionfileN</i></pre>
 
 with high probability.
+
+The mathematics is explained <a href=https://atdotde.blogspot.com/2025/10/holosplit.html>in this blog post<a>.
